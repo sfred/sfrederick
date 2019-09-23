@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/sfred
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sfr.io
+  * I am sfred (https://keybase.io/sfred) on keybase.
+  * I have a public key ASD0uT2mVS3uRHuZoTyZaxNp5hBoZPW2R76ZybTQmK_Rbwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f4b93da6552dee447b99a13c996b1369e6106864f5b647be99c9b4d098afd16f0a",
+      "host": "keybase.io",
+      "kid": "0120f4b93da6552dee447b99a13c996b1369e6106864f5b647be99c9b4d098afd16f0a",
+      "uid": "449a2817ff38c8cbd9ab433337acb719",
+      "username": "sfred"
+    },
+    "merkle_root": {
+      "ctime": 1569252364,
+      "hash": "b1f1dfaf727dbce96c6eeed540de146ac564d5c97dbeae5db671603a9c80e7df79868be4f2be1a8b45ffcdf46145dc4672d898559d47154feebde856564421cc",
+      "hash_meta": "6f21b3375e27f79ba8fae71a7dea34663dfe5af775e44582a766756e36914f58",
+      "seqno": 7704123
+    },
+    "service": {
+      "entropy": "bseHijYmVqxNyBaCjCNLo6sk",
+      "hostname": "sfr.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1569252425,
+  "expire_in": 504576000,
+  "prev": "62c67e95f387c0002a0d4147d5b01951ee63935515516fe2610bd3e1e0d3f171",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9Lk9plUt7kR7maE8mWsTaeYQaGT1tke+mcm00Jiv0W8Kp3BheWxvYWTESpcCJcQgYsZ+lfOHwAAqDUFH1bAZUe5jk1UVUW/iYQvT4eDT8XHEIN+p2SzjMnBRaNDUfrertpzTH0YscrxEF6dh+dpZMQMbAgHCo3NpZ8RA3tnTzyJIBXi+ouOXrGEu7GUlZCIVKpQiGTz7ODwwm1qyaK8/GWQT/S6gdDOYhupHVGejIGDcoy+nv4rdX6W/AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN6rHlBiTrl0ikgcXleZg+UawDxM93KWRXiazCVCO8E6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sfred
+
+==================================================================
